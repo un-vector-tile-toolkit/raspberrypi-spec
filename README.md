@@ -22,4 +22,10 @@ The specification for Raspberry Pi to be used for a hands-on exercise using UNVT
 4. The participant connects to the RasPi using the IP address using WiFi.
 
 ## Requreiment for the hands-on tutors and environment
+
+### Required
 - WiFi connection
+
+### Optional
+- USB/Ethernet converter
+- USB-C/Ethernet converter
